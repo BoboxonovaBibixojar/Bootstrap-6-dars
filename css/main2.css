@@ -1,0 +1,15 @@
+.bir{
+    float: left;
+}
+.ikki{
+    position: absolute;
+    margin-left:300px;
+}
+.uch{
+    position: absolute;
+    margin-left:600px;
+}
+.tort{
+    position: absolute;
+    margin-left:900px;
+}

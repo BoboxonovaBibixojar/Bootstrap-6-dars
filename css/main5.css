@@ -1,0 +1,35 @@
+.bir{
+    margin-left:25px;
+    background: linear-gradient(120deg,purple,rebeccapurple);
+    padding-top: -10px;
+    width: 170px !important;
+    border-radius: 30px !important;
+    height: 25px !important;
+}
+.ikki{
+    margin-left:25px;
+    color: blue;
+    border: 1px solid blue;
+    padding-top: -10px;
+    width: 170px !important;
+    border-radius: 30px !important;
+    height: 25px !important;
+}
+.uch{
+    margin-left:25px;
+    border: 1px solid deeppink;
+    color: deeppink;
+    padding-top: -10px;
+    width: 170px !important;
+    border-radius: 30px !important;
+    height: 25px !important;
+}
+.tort{
+    margin-left:25px;
+    color:rebeccapurple ;
+    border: 1px solid rebeccapurple;
+    padding-top: -10px;
+    width: 170px !important;
+    border-radius: 30px !important;
+    height: 25px !important;
+}
